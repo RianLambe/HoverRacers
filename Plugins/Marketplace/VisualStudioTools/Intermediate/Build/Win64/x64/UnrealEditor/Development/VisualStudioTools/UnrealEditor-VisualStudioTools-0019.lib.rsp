@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-VisualStudioTools-0019.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\rianl\Documents\GitHub\DingleSting-PodRacing\Intermediate\Build\Win64\x64\PodRacingEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"C:\Users\rianl\Documents\GitHub\DingleSting-PodRacing\Plugins\Marketplace\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Module.VisualStudioTools.cpp.obj"
+"C:\Users\rianl\Documents\GitHub\DingleSting-PodRacing\Plugins\Marketplace\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Default.rc2.res"
+/OUT:"C:\Users\rianl\Documents\GitHub\DingleSting-PodRacing\Plugins\Marketplace\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\UnrealEditor-VisualStudioTools-0019.lib"
